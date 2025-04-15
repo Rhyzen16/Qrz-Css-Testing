@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>DY3ZXG Profile</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="profile-card">
+    <div class="profile-header">
+      <img src="https://static.qrz.com/g/dy3zxg/avatar.jpg" alt="DY3ZXG">
+      <div>
+        <h1>DY3ZXG</h1>
+        <p>Amateur Radio Operator | Electronics Enthusiast | Tinkerer</p>
+        <p class="location">Philippines</p>
+      </div>
+    </div>
+
+    <hr>
+
+    <h2>About Me</h2>
+    <p>Hello! I'm DY3ZXG, a duly licensed amateur radio operator with a passion for communication tech, antenna building, and digital modes. I love connecting with people around the world and learning about RF, propagation, and SDR.</p>
+
+    <h2>Tech Stack</h2>
+    <ul class="tech-stack">
+      <li>- HF/VHF/UHF Operation</li>
+      <li>- Digital Modes</li>
+      <li>- SDR & Arduino Projects</li>
+      <li>- QRP & Portable Ops</li>
+    </ul>
+
+    <h2>Information</h2>
+    <p class="info-links">
+      <a href="https://qrz.com/db/DY3ZXG">QRZ Refresh</a> |
+      <a href="https://github.com/Rhyzen16">Code</a> |
+      <a href="mailto:rhyzensb2knows@gmail.com">Email</a>
+    </p>
+  </div>
+</body>
+</html>
